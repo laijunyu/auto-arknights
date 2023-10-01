@@ -25,4 +25,4 @@ jobs:
           # PASSWORD: ${{ secrets.PASSWORD }}
           TOKEN: ${{ secrets.TOKEN }}
         run: |
-          python skyland.py
+          python index.py
